@@ -1,0 +1,5 @@
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\Fakes and Sims\Simple Unit Test\MyMathsLibrary\bin\Debug\MyMathsLibrary.dll
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\Fakes and Sims\Simple Unit Test\MyMathsLibrary\bin\Debug\MyMathsLibrary.pdb
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\Fakes and Sims\Simple Unit Test\MyMathsLibrary\obj\Debug\MyMathsLibrary.csprojResolveAssemblyReference.cache
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\Fakes and Sims\Simple Unit Test\MyMathsLibrary\obj\Debug\MyMathsLibrary.dll
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\Fakes and Sims\Simple Unit Test\MyMathsLibrary\obj\Debug\MyMathsLibrary.pdb
